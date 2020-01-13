@@ -1,0 +1,3 @@
+<script> var p1 = "success";
+ </script>
+ <?php $x = "<script>document.writeln(p1);</script>"; echo $x; ?>
